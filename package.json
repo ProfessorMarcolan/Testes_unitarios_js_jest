@@ -1,0 +1,17 @@
+{
+  "name": "testes_unitarios_javascript",
+  "version": "1.0.0",
+  "description": "Testes unitarios usando node e javascript",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
